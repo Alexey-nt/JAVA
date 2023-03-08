@@ -16,22 +16,25 @@ public class DZ_1 {
 
         Random random = new Random();
         int i = random.nextInt(2000);
-        System.out.println(random.nextInt(i));
-
+        System.out.printf("Случайное число i от 0 до 2000 равно: " + random.nextInt(i));
+        System.out.printf("\n");
         System.out.print("***********************************\n");
 
         //        2. Посчитать и сохранить в n номер старшего значащего бита выпавшего числа
 
         int n = random.nextInt(100);
-        System.out.println(n);
-        System.out.println(Integer.toBinaryString(n));
-        System.out.println(Integer.toBinaryString(n).length());
+        System.out.println("Выпавшее число n = " + n);
+        System.out.println("Выпавшее чисдо в двоичном представлении: " + Integer.toBinaryString(n));
+        System.out.println("Номер старшего бита: " + Integer.toBinaryString(n).length());
+        n = Integer.toBinaryString(n).length();
+        System.out.println("Число n = " + n);
 
         System.out.print("***********************************\n");
 
         //        3. Найти все кратные n числа в диапазоне от i до Short.MAX_VALUE сохранить в массив m1
 
-
+        int[] m1 = new int[Short.MAX_VALUE];
+        System.out.println(m1);
 
 
     }
