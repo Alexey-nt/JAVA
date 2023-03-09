@@ -19,7 +19,8 @@ public class DZ_1 {
         int i = random.nextInt(2000);
         System.out.printf("Случайное число i от 0 до 2000 равно: " + i);
         System.out.printf("\n");
-        System.out.print("***********************************\n");
+        System.out.print("*".repeat(40));
+        System.out.printf("\n");
 
         //        2. Посчитать и сохранить в n номер старшего значащего бита выпавшего числа
 
