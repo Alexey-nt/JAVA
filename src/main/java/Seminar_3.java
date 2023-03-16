@@ -12,12 +12,13 @@ public class Seminar_3 {
         strings.addAll(list);
         strings.clear();
 
-        list.add(1);
+        list.add(5);
         list.add(2);
         list.add(3);
         list.add(4);
-        list.add(5);
+        list.add(1);
         list.add(6);
+        System.out.println(list.toString());
         list.forEach(n -> System.out.print(n+","));
         System.out.println();
         list.remove(1);
@@ -39,7 +40,7 @@ public class Seminar_3 {
                 return 0;
             }
         });
-        list.forEach(n -> System.out.print(n+","));
+        list.forEach(n -> System.out.print(n+", "));
         System.out.println();
 
         for (int j = 0; j < 5; j++) {
