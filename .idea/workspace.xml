@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="695255e3-6a33-4ba9-b3f5-78c02746c6dc" name="Changes" comment="&quot;DZ 2&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DZ_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_3.java" afterDir="false" />
+    <list default="true" id="695255e3-6a33-4ba9-b3f5-78c02746c6dc" name="Changes" comment="&quot;Seminar_3 + DZ 3&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts" beforeDir="false" afterPath="$PROJECT_DIR$/contacts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar_4_Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar_4_Contacts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +54,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Seminar_3">
-    <configuration name="DZ_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DZ_1" />
-      <module name="seminar_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DZ_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DZ_2" />
-      <module name="seminar_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Seminar_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar_2" />
+  <component name="RunManager" selected="Application.Seminar_4_Contacts (1)">
+    <configuration name="DZ_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ_3" />
       <module name="seminar_1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,12 +69,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Seminar_4_Contacts (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_4_Contacts" />
+      <module name="seminar_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar_4_Contacts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_4_Contacts" />
+      <module name="seminar_1" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/contacts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_5" />
+      <module name="seminar_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Seminar_4_Contacts (1)" />
+      <item itemvalue="Application.Seminar_5" />
+      <item itemvalue="Application.DZ_3" />
+      <item itemvalue="Application.Seminar_3" />
+      <item itemvalue="Application.Seminar_4_Contacts" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seminar_4_Contacts (1)" />
+        <item itemvalue="Application.Seminar_5" />
+        <item itemvalue="Application.Seminar_4_Contacts" />
+        <item itemvalue="Application.DZ_3" />
         <item itemvalue="Application.Seminar_3" />
-        <item itemvalue="Application.DZ_2" />
-        <item itemvalue="Application.Seminar_2" />
-        <item itemvalue="Application.DZ_1" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678297464037</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;Seminar_3 + DZ 3&quot;">
+      <created>1678792302472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678792302472</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +157,7 @@
     <MESSAGE value="Seminar 1 and 2" />
     <MESSAGE value="&quot;Seminar 1 and 2&quot;" />
     <MESSAGE value="&quot;DZ 2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;DZ 2&quot;" />
+    <MESSAGE value="&quot;Seminar_3 + DZ 3&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Seminar_3 + DZ 3&quot;" />
   </component>
 </project>

@@ -52,7 +52,7 @@ public class Seminar_4_Contacts {
             System.out.println(record.get(4));  //  пол
         }
     }
-    private static void getData() {  //  Создание списка записей
+    private static void getData() {  //  Меню программы
         String command;
         System.out.println("Введите '1' для ввода новой записи\nВведите '2' для завершения ввода данных\n");
         command = myScanner.nextLine();
@@ -63,7 +63,7 @@ public class Seminar_4_Contacts {
             command = myScanner.nextLine();
         }
     }
-    private static ArrayList GetRecord() {   // Создание одной записи
+    private static ArrayList GetRecord() {   // Внесение данных в контакт
         ArrayList<String> newRecord = new ArrayList<>();
         System.out.println("Введите фамилию: ");
         String lastName = myScanner.nextLine();
